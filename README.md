@@ -23,6 +23,6 @@ Incentives/Discounts: Get a discount for every medical appointement and earn inc
 6. Once the installation is complete, tap "Open" to launch the UberCare app.
 
 #####Improvements
-We committed to continuous improvements and stay true to our user-centric approach!
+We committed to continuous improvement and stay true to our user-centric approach!
 If you have any questions or suggestions, please do not hesitate to contact us at erscharafat0506@gmail.com and Sundus99mohamed@gmail.com
 [Uberphoto](https://github.com/sinkrizz/UberCare/assets/122527004/830b6c43-e3a2-483e-a04a-558488f5b847)
